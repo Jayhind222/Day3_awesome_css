@@ -1,0 +1,33 @@
+.heading{
+    text-align: center;
+    font-size : 60px;
+    font-weight : 400;
+    font-family: cursive;
+}
+span{
+    color : red;
+}
+li{
+    font-size: 40px;
+}
+body{
+    background-image : url(https://upload.wikimedia.org/wikipedia/commons/9/96/Nature_celebrating_India.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color : whitesmoke;
+}
+
+/*
+Css rules:
+
+selector(tagname, .class and #id){
+    property:value;
+}
+
+more specific more power
+inline > internal >external
+*/
+.text-red{
+    color: red;
+}
+.text
